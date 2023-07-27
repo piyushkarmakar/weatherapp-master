@@ -34,4 +34,4 @@ jobs:
  
 
     - name: Deploy static site to S3 bucket
-      run: aws s3 sync . s3://8457963645
+      run: aws s3 sync . s3://7008913763
